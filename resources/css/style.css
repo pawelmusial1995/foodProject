@@ -23,6 +23,7 @@ REUSABLE COMPONENTS
 .row {
     max-width: 1140px;
     margin: 0 auto;
+    
 }
 
 /**********************
@@ -145,7 +146,6 @@ header {
 .main-nav li a:active {
     border-bottom: 2px solid #e67e22;
 }
-
 
 
 
